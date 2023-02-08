@@ -12,11 +12,11 @@ INSTALLATION
 
 *Copy the following command into a terminal window*
 
-    bash <(curl -s -L http://goo.gl/3P3Gn)
+    
 
 *Alternatively*
 
-    git clone git://github.com/macmichael01/terminal-config.git;
+    git clone git://github.com/journeyman32/terminal-config.git;
     cd terminal-config;
     ./install.sh -v;
 
