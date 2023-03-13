@@ -10,13 +10,7 @@ few of my own scripts.
 INSTALLATION
 ------------
 
-*Copy the following command into a terminal window*
-
-    
-
-*Alternatively*
-
-    git clone git://github.com/journeyman32/terminal-config.git;
+    git clone https://github.com/journeyman32/terminal-config.git;
     cd terminal-config;
     ./install.sh -v;
 
